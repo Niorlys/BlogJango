@@ -1,0 +1,3 @@
+
+class Secret:
+    BLOGJANGO_SECRET_KEY="BLOGJANGO_SECRET_KEY"
